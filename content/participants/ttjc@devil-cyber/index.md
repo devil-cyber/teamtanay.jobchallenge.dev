@@ -40,7 +40,9 @@ It would be good if someone mentor me in the process of my projects devlopment a
 - [Nasa-Image-of-day](https://nasa-image-of-day.netlify.app/)
 - [Static-Music-Player-webapp](https://adoring-heisenberg-3cded0.netlify.app/)
 - [Room-Temperature-Prediction](https://www.hackster.io/mani2474695/room-temperature-prediction-by-machine-learning-c28232)
-- [Hand-Written-Digit-Recognition-Using](https://github.com/devil-cyber/-Hand-Written-Digit-Recognition-Using-Machine-Learning)<br>
+- [Hand-Written-Digit-Recognition-Using](https://github.com/devil-cyber/-Hand-Written-Digit-Recognition-Using-Machine-Learning)
+- [Face-Detection-web-App](http://face-detections.netlify.app/)(Chrome Browser Recommended)
+<br>
  And more i will be updating asap
 
 
